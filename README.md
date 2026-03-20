@@ -1,7 +1,7 @@
 [![Marllon's GitHub Banner](./assets/hero.png)](https://marllons.dev)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/m4rllons/)
-[![Gmail](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail)](mailto:marllonsostenes@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail)](mailto:marllonsdev@gmail.com)
 
 Hey there 👋
 
